@@ -25,3 +25,10 @@
 ## Also Familiar With
 
 ![Tools](https://skillicons.dev/icons?i=androidstudio,intellij)
+
+---
+
+## You Can Find Me On 
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)
+[![Leetcode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/Yashraj_K11/)
