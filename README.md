@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋 What's Up?
 
 ### DESIGN  |  BUILD  |  INSPIRE
 
