@@ -16,4 +16,8 @@
 
 ## Currently Focusing On 
 
-![My Skills](https://skillicons.dev/icons?i=python,react,kubernetes,tensorflow,gitlab,docker)
+![My focus](https://skillicons.dev/icons?i=python,tensorflow,react,gitlab,kubernetes,docker)
+
+## I Code With 
+
+![My Skills](https://skillicons.dev/icons?i=java,springboot,eclipse,js,nodejs,express,vscode)
