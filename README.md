@@ -16,7 +16,7 @@
 
 ## Currently Focusing On 
 
-![My focus](https://skillicons.dev/icons?i=python,tensorflow,react,gitlab,kubernetes,docker)
+![My focus](https://skillicons.dev/icons?i=python,pytorch,react,gitlab,kubernetes,docker)
 
 ## I Code With 
 
@@ -24,4 +24,4 @@
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio)
+![Tools](https://skillicons.dev/icons?i=androidstudio,jupiternotebook)
