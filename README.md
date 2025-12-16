@@ -24,8 +24,7 @@
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio)  <a href="https://colab.research.google.com/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" height="50"/>
+![Tools](https://skillicons.dev/icons?i=androidstudio)
 
 
 ---
