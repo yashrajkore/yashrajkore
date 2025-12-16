@@ -24,4 +24,4 @@
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio,jupiternotebook)
+![Tools](https://skillicons.dev/icons?i=androidstudio,copilot,cursor,claude)
