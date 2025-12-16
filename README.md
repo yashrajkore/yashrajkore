@@ -1,6 +1,6 @@
 ## Hey 👋 What's Up?
 
-### DESIGN  |  BUILD  |  INSPIRE
+### DESIGN  -  BUILD  -  IMPROVE
 🔸 Exploring Open Source...
 
 ## About Me 🚀
