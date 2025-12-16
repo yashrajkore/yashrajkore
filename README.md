@@ -20,4 +20,4 @@
 
 ## I Code With 
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github,googlecolab)
+![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github,colab)
