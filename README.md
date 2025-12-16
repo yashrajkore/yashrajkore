@@ -24,7 +24,7 @@
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio)
+![Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm)
 
 ---
 
