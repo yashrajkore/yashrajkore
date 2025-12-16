@@ -26,7 +26,6 @@
 
 ![Tools](https://skillicons.dev/icons?i=androidstudio)
 
-
 ---
 
 
@@ -36,3 +35,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
   </a>
   </a>
+
+---
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
