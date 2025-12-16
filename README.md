@@ -10,7 +10,7 @@
 - 💻 Java Backend Developer | AI Enthusiast | Web Developer
 - ✨ Currently learning AI / ML
 - 🎓 B.Tech in CSE
-- 🥇 Slilled in Problem solving
+- 🥇 Skilled in Problem solving
 
 ---
 
@@ -20,4 +20,4 @@
 
 ## I Code With 
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github,googlecolab)
