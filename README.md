@@ -24,7 +24,8 @@
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio,intellij)
+![Tools](https://skillicons.dev/icons?i=androidstudio)  <a href="https://colab.research.google.com/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" height="50"/>
 
 
 ---
@@ -33,6 +34,6 @@
 ## You Can Find Me On 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)   <a href="https://leetcode.com/Yashraj_K11/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>  <a href="https://www.hackerrank.com/profile/yashdko2004">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
+  </a>
   </a>
