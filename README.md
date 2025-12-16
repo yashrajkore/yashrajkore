@@ -20,8 +20,8 @@
 
 ## I Code With 
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github,vercel)
 
 ## Also Familiar With
 
-![Tools](https://skillicons.dev/icons?i=androidstudio,copilot,cursor,claude)
+![Tools](https://skillicons.dev/icons?i=androidstudio,intellij)
