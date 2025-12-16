@@ -34,7 +34,9 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)   <a href="https://leetcode.com/Yashraj_K11/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
   </a>
-  </a>
+  </a>  <a href="https://auth.geeksforgeeks.org">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="40"/>
+</a>
 
 ---
 
