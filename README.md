@@ -16,4 +16,4 @@
 
 ## Currently Focusing On 
 
-![My Skills](https://skillicons.dev/icons?i=python,react,NumPy,tensorflow,gitlab,docker)
+![My Skills](https://skillicons.dev/icons?i=python,react,kubernetes,tensorflow,gitlab,docker)
