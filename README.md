@@ -35,7 +35,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
   </a>
 
----
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashrajkore&show_icons=true&theme=tokyonight)
