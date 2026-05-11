@@ -26,5 +26,20 @@ Current Focus:
   - Problem Solving & System Design
 ```
 <div align="center">
-## 🚀 DESIGN • BUILD • IMPROVE
+🚀 DESIGN • BUILD • IMPROVE
+</div>
+- 💻 Passionate about building AI-powered software solutions
+- 🧠 Strong foundation in DSA, Java & OOPs
+- 🤖 Exploring practical AI Integration using Gemini API
+- 🌐 Building modern Web Applications
+- 🏆 Competitive Programmer & Problem Solver
+- 👨‍💼 Led teams during college hackathons & group projects
+
+### 🏆 Competitive Programming Achievements
+<div align="center">
+  | Platform         | Achievement              |
+| ---------------- | ------------------------ |
+| 🟡 LeetCode      | **360+ Problems Solved** |
+| 🟢 GeeksForGeeks | **1600+ Rating**         |
+| 🔵 HackerRank    | **5⭐ in Java**           |
 </div>
