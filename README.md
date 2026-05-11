@@ -74,24 +74,8 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 ## 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajkore&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajkore&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkore&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🏗 Featured Projects
-
-> [!TIP]
-> Click on the project names to view the source code.
-
-* **⚡ HireVest:** A modern job portal integrated with real-time stock market data via TradingView API.
-* **🤖 Resumeet:** AI-powered resume analyzer built with Python, Flask, and Gemini API.
-* **🎙️ AI Voice Assistant:** Backend-focused personal assistant handling complex logic and automation.
 
 ---
 
@@ -100,14 +84,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 - **Team Lead:** Orchestrated multiple group projects, ensuring code quality and timely delivery.
 - **Mentor:** Active participant in peer-code reviews and collaborative problem solving.
 - **Agile Mindset:** Experienced in working with Git-flow and collaborative documentation.
-
----
-
-## 📈 Contribution Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashrajkore/yashrajkore/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
