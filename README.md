@@ -1,36 +1,27 @@
-## Hey 👋 What's Up?
+<div align="center">
 
-### DESIGN  -  BUILD  -  IMPROVE
-🔸 Exploring Open Source...
+# Hey there 👋, I'm <YOUR_NAME>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI+Integration+Developer;Java+%2B+DSA+Enthusiast;Building+Smart+Web+Applications;Gemini+API+%7C+AI-Powered+Solutions;Competitive+Programmer+%F0%9F%9A%80" alt="Typing SVG" />
 
-## About Me 🚀
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-- 💻 Java Backend Developer | AI Enthusiast | Web Developer
-- ✨ Currently learning AI / ML
-- 🎓 B.Tech in CSE
-- 🥇 Skilled in Problem solving
+</div>
 
 ---
 
-## Currently Focusing On 
+# 💫 About Me
 
-![My focus](https://skillicons.dev/icons?i=python,pytorch,react,gitlab,kubernetes,docker)
-
-## I Code With 
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,js,nodejs,express,sqlite,vscode,git,github,vercel)
-
-## Also Familiar With
-
-![Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm)
-
----
-
-
-## You Can Find Me On 
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)   <a href="https://leetcode.com/Yashraj_K11/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
-  </a>
+```yaml
+Name: <YOUR_NAME>
+Role: Software Engineer / AI Integration Developer
+Experience: Fresher
+Strongest Skills:
+  - DSA in Java
+  - Core Java & OOPs
+  - AI Integration using Gemini API
+  - Web Development
+Current Focus:
+  - Building AI-powered Web Apps
+  - Backend Development
+  - Problem Solving & System Design
