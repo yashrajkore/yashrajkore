@@ -24,7 +24,7 @@ Current Focus:
   - Building AI-powered Web Apps
   - Backend Development
   - Problem Solving & System Design
-
+</div>
 <div align="center">
 🚀 DESIGN • BUILD • IMPROVE
 </div>
