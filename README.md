@@ -14,12 +14,11 @@
 
 ```yaml
 Name: Yashraj Kore
-Role: Software Engineer / AI Integration Developer
-Experience: Fresher
+Role: Software Engineer
 Strongest Skills:
-  - DSA in Java
+  - DSA
   - Core Java & OOPs
-  - AI Integration using Gemini API
+  - AI Integration using APIs
   - Web Development
 Current Focus:
   - Building AI-powered Web Apps
@@ -27,5 +26,5 @@ Current Focus:
   - Problem Solving & System Design
 ```
 <div align="center">
-🚀 DESIGN • BUILD • IMPROVE
+## 🚀 DESIGN • BUILD • IMPROVE
 </div>
