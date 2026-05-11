@@ -32,11 +32,11 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,c,html,css" />
   </a>
 </p>
 
-### 🚀 Frameworks & Data Science
+### 🚀 Libraries & Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,15 +45,20 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 </p>
 
 ### 🗄️ Databases & Tools
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🤖 AI Ecosystem
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,gitlab,docker" />
+  </a>
+</p>
+
+### Developer Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm" />
+  </a>
+</p>
 
 </div>
 
