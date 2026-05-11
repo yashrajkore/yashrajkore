@@ -43,8 +43,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
     <img src="https://skillicons.dev/icons?i=flask, nodejs" />
   </a>
 </p>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
