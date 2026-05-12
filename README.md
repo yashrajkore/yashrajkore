@@ -11,9 +11,6 @@
 <p align="center">
   <img src="Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
 </p>
-<div align="center">
-*"The only way to do great work is to love what you do."* — **Steve Jobs**
-</div>
 
 ---
 
@@ -123,6 +120,8 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 ---
 
 <div align="center">
+
+*"The only way to do great work is to love what you do."* — **Steve Jobs**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=30&section=footer" width="100%" />
 
