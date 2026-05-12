@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/GitHub Banner.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/GitHub Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
