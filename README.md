@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Location-Remote%20%2F%20India-00D1FF?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/GitHub Banner.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
