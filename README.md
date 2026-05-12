@@ -99,9 +99,9 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashrajkore)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj.kore.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://[YOUR_PORTFOLIO_URL])
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yashraj.kore.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)(https://[YOUR_PORTFOLIO_URL])
 
 </div>
 
