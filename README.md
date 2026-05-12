@@ -44,15 +44,23 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
   </a>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,gitlab,docker" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
   </a>
 </p>
 
-### Developer Platforms
+### 🛠 Developer Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel" />
+  </a>
+</p>
+
+### 📊 Development Platforms/Environments
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,7 +74,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 ## 🏆 Competitive Programming & Achievements
 
-<details open>
+<details>
 <summary><b>View Rankings & Milestones</b></summary>
 <br />
 <ul>
