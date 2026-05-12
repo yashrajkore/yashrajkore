@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
 
@@ -123,6 +123,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=30&section=footer" width="100%" />
 
 </div>
