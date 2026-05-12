@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-305CDE?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Remote%20%2F%20India-00D1FF?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
