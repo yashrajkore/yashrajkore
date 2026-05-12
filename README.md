@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashrajkore/yashrajkore/main/Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+  <img src="Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
