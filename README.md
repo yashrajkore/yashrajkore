@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -123,6 +123,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=30&section=footer" width="100%" />
 
 </div>
