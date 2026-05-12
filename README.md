@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E73895&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF77CB&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
 
