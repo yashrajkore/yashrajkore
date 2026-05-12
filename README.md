@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E73895&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E73895&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
 
@@ -123,6 +123,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E73895&height=30&section=footer" width="100%" />
 
 </div>
