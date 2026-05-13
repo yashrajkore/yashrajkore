@@ -123,6 +123,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=30&section=footer" width="100%" />
 
 </div>
