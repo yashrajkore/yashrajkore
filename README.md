@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
