@@ -113,6 +113,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yashraj.kore.dev@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yashrajkore)
 [![Portfolio](https://skillicons.dev/icons?i=vercel)](https://github.com/yashrajkore)
 
 </div>
