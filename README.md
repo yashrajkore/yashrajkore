@@ -85,7 +85,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
     <li>🚀 <b>LeetCode:</b> Solved <b>360+</b> Problems (Focus on Arrays, Trees, and Dynamic Programming).</li>
     <li>🟢 <b>GeeksforGeeks:</b> <b>1600+</b> Rating.</li>
     <li>⭐ <b>HackerRank:</b> <b>5-Star</b> Gold Badge in Java.</li>
-    <li>🏅 <b>Hackathons:</b> Leadership experience in college-level technical competitions.</li>
+    <li>🏅 <b>Hackathons:</b> Team collaboration experience in college-level technical competitions.</li>
 </ul>
 </details>
 
