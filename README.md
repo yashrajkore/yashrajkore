@@ -87,6 +87,9 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
     <li>⭐ <b>HackerRank:</b> <b>5-Star</b> Gold Badge in Java.</li>
     <li>🏅 <b>Hackathons:</b> Team collaboration experience in college-level technical competitions.</li>
 </ul>
+[![leetcode]LeetCode Profile](https://leetcode.com/u/Yashraj_K11/)
+[![GFG]GFG Profile](https://www.geeksforgeeks.org/profile/yashraj0mqn)
+[![HackerRank]HackerRank Profile](https://www.hackerrank.com/profile/yashdko2004)
 </details>
 
 ---
