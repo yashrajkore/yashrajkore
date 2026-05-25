@@ -76,7 +76,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=305CDE&height=100&section=header&text=GitHub%20Stats&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=305CDE&height=120&section=header&text=GitHub%20Stats&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%" />
 
 
 <div align="center">
