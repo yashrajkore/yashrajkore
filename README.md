@@ -83,7 +83,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 <br/>
 <ul>
     <li>🚀 <b>LeetCode:</b> Solved <b>360+</b> Problems (Focus on Arrays, Strings, Stack, LinkedList & Trees) -> https://leetcode.com/u/Yashraj_K11/</li>
-    <li>🟢 <b>GeeksforGeeks:</b> <b>1600+</b> Rating -> https://www.geeksforgeeks.org/profile/yashraj0mqn</li>
+    <li>🟢 <b>GeeksforGeeks:</b> <b>3-Star</b>, 1600+ Rating & 545 Coding Score -> https://www.geeksforgeeks.org/profile/yashraj0mqn</li>
     <li>⭐ <b>HackerRank:</b> <b>5-Star</b> Gold Badge in Java & Python -> https://www.hackerrank.com/profile/yashdko2004</li>
     <li>🏅 <b>Hackathons:</b> Team collaboration experience in college-level technical competitions.</li>
 </ul>
