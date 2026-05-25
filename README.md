@@ -80,11 +80,11 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 <details>
 <summary><b>View Rankings & Milestones</b></summary>
-<br />
+<br/>
 <ul>
-    <li>🚀 <b>LeetCode:</b> Solved <b>360+</b> Problems (Focus on Arrays, Trees, and Dynamic Programming). -> https://leetcode.com/u/Yashraj_K11/</li>
-    <li>🟢 <b>GeeksforGeeks:</b> <b>1600+</b> Rating. -> https://www.geeksforgeeks.org/profile/yashraj0mqn</li>
-    <li>⭐ <b>HackerRank:</b> <b>5-Star</b> Gold Badge in Java & Python. -> https://www.hackerrank.com/profile/yashdko2004</li>
+    <li>🚀 <b>LeetCode:</b> Solved <b>360+</b> Problems (Focus on Arrays, Strings, Stack, LinkedList & Trees) -> https://leetcode.com/u/Yashraj_K11/</li>
+    <li>🟢 <b>GeeksforGeeks:</b> <b>1600+</b> Rating -> https://www.geeksforgeeks.org/profile/yashraj0mqn</li>
+    <li>⭐ <b>HackerRank:</b> <b>5-Star</b> Gold Badge in Java & Python -> https://www.hackerrank.com/profile/yashdko2004</li>
     <li>🏅 <b>Hackathons:</b> Team collaboration experience in college-level technical competitions.</li>
 </ul>
 </details>
@@ -114,8 +114,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashrajkore)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yashraj.kore.dev@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yashrajkore)
-[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://github.com/yashrajkore)
-
 </div>
 
 ---
