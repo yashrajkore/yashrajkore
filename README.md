@@ -76,9 +76,8 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 ---
 
-<h2 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header&text=GitHub%20Stats&fontSize=40&fontAlign=50&animation=twinkling" alt="Stats"/>
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=305CDE&height=40&section=header&text=GitHub%20Stats&fontSize=20&animation=fadeIn&fontAlignY=35" width="100%" />
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkore&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
