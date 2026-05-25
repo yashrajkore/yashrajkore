@@ -101,9 +101,9 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 ## 🤝 Leadership & Collaboration
 
-- **Team Lead:** Orchestrated multiple group projects, ensuring code quality and timely delivery.
+- **Team Lead:** Orchestrated multiple group projects, ensuring code quality and timely completion.
 - **Mentor:** Active participant in peer-code reviews and collaborative problem solving.
-- **Agile Mindset:** Experienced in working with Git-flow and collaborative documentation.
+- **Agile Mindset:** Working with Git-flow and collaborative documentation.
 
 ---
 
