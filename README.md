@@ -3,7 +3,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Yashraj;Software+Engineer;AI+Integration+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Intro-Software%20Engineer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intro-Software%20Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-305CDE?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-00D1FF?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
