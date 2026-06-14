@@ -60,7 +60,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,azure" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/>
   </a>
 </p>
 
@@ -82,14 +82,6 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkore&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🤝 Leadership & Collaboration
-
-- **Team Lead:** Orchestrated multiple group projects, ensuring code quality and timely completion.
-- **Mentor:** Active participant in peer-code reviews and collaborative problem solving.
-- **Agile Mindset:** Working with Git-flow and collaborative documentation.
 
 ---
 
