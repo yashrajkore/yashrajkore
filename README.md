@@ -44,7 +44,7 @@ Passionate **Software Engineer** specializing in bridging the gap between robust
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
   </a>
 </p>
 
