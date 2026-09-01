@@ -20,12 +20,12 @@
 
 ## 🪐 About Me
 
-Passionate **Software Engineer** specializing in bridging the gap between robust backend logic and intelligent AI integrations. I thrive on solving complex algorithmic challenges and building scalable web applications that deliver seamless user experiences.
+Passionate **Software Developer** building full-stack web applications and AI-powered solutions. I enjoy turning ideas into practical products, working with APIs, backend systems, and automation.
 
-- 🔭 **Current Focus:** Developing AI-integrated web applications and refining system architectures.
-- ⚡ **Expertise:** Deep-rooted foundation in **Data Structures & Algorithms** using Java.
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (Final Year).
-- 🧠 **Philosophy:** "Great software is built by people who care about the smallest details."
+- 🔭 **Currently**: Strengthening JavaScript & full-stack development
+- 🤖 **Interests**: AI Applications • Backend Development • Product Building
+- 💻 **Tech**: Java • Python • JavaScript • Flask • Node.js • Express.js • SQL
+- 🧠 **Currently learning**: React • MongoDB • Full-Stack Architecture
 
 ---
 
